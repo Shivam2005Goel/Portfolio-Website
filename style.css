@@ -1,0 +1,58 @@
+
+body{
+    background-image: url("./computer_image.jpg");
+}
+.Top-Bar{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction:row;
+    gap: 30px;
+    padding-right: 30px;
+    justify-content: flex-end;
+    flex-grow: 1;
+}
+#ABOUT_SECTION{
+    margin-left: 10px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+.My_image{
+    height: auto;
+    width: 20%;
+    float:right;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+.Intro{
+   color:white;
+}
+h6{
+    display:inline;
+}
+.heading{
+    font-family: "Dancing Script", cursive;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 3rem;
+    color:white;
+    text-decoration-line: underline;
+    text-align:center;
+    margin-top: 40px;
+}
+.btn-light{
+   font-weight: bold;
+   padding-left: 5px;
+   padding-right: 5px;
+   font-size: 16pt;
+   margin-top: 20px;
+}
+
+li{
+    color: white;
+}
+
+
